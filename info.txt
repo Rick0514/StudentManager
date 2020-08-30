@@ -1,0 +1,17 @@
+学生学号     学生姓名     学生年龄     学生学院     数学成绩     c++成绩     英语成绩
+100            Rick             20             Auto           90.5           85               78
+200            Doris           21             Education   95              96               100
+300            John            18             Art              70              79               85
+400            Mike            19             Auto           98              89               95.5
+500            Lily               20            Medicine     90              88.5            93
+600            Wendy         19            Auto            89              95.5            93
+700            Tom             22            Math           99               92              79
+800            Brooce         24            English        78               88              100
+900            Nick             19            History        88               65               77
+1000          Chris            20             Chemistry   60              74                80
+1100          Alex             22            Chinese        56              67                88.5
+1200          Boris            23            Music           43             88.5             77
+1300          Edward        21            Physics         99             97.5             79
+1400          Fred             22            Biology        78             66.5             82.5
+1500          Hart             19            Art               55              67                77
+1600          Ocean          20            Auto            92.5           93                95
