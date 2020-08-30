@@ -22,13 +22,13 @@
 
 
 
-<img src="./class.jpg" style="zoom:50%;" />
+<img src="https://github.com/Rick0514/StudentManager/blob/master/class.JPG" style="zoom:50%;" />
 
 
 
 #### 登录
 
-<img src="./login.jpg" style="zoom:60%;" />
+<img src="https://github.com/Rick0514/StudentManager/blob/master/login.JPG" style="zoom:60%;" />
 
 
 
@@ -36,4 +36,4 @@
 
 
 
-<img src="./menu.jpg" style="zoom:60%;" />
+<img src="https://github.com/Rick0514/StudentManager/blob/master/menu.JPG" style="zoom:60%;" />
